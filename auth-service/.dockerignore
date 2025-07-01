@@ -1,0 +1,15 @@
+.gitignore
+*.md
+*.log
+build/
+cmake-build-*
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.a
+*.so
+*.swp
+*.swo
+*.tmp
+Dockerfile
+docker-compose.yml
